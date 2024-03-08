@@ -1,5 +1,5 @@
 ### Alunos
-Anthony de Zutter e
+Anthony de Zutter
 Reinaldo Dos Santos Junior
 
 # exercicio_cg02
