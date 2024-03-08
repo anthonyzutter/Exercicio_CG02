@@ -1,3 +1,7 @@
+### Alunos
+Anthony de Zutter
+Reinaldo Dos Santos Junior
+
 # exercicio_cg02
 
 ### Instalar e usar
